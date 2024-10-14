@@ -94,7 +94,7 @@ Tiến hành copy file `cacert.der` vào trong genymotion.
 
 ![image](https://github.com/user-attachments/assets/4e750702-2e1d-41f2-9e94-4ce2d0b9f61e)
 
-Sau đó vào wifi và nhấn giữ chuột vào `androidwifi` và bấm modify. Lưu ý phải nhấn giữ chuột.
+Sau đó vào wifi và nhấn giữ chuột vào `androidwifi` và bấm modify. Lưu ý phải nhấn giữ chuột (lưu ý phải đổi đuôi file về dạng `.crrt` hoặc `.cer`, dạng `.der` sẽ không được hỗ trợ).
 
 ![image](https://github.com/user-attachments/assets/8b4f18d1-7ffa-4911-a3ee-9fca11405659)
 
