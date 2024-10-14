@@ -97,7 +97,15 @@ Sau đó vào wifi và nhấn giữ chuột vào `androidwifi` và bấm modify.
 
 ![image](https://github.com/user-attachments/assets/8b4f18d1-7ffa-4911-a3ee-9fca11405659)
 
+Install thành công cert thì follow theo trang này step by step k sót bước nào:
 
+```
+https://www.genymotion.com/blog/tutorial/burp-suite-genymotion-device-image/
+```
+
+Sau khi làm hết thì sẽ bắt được request bằng burpsuite.
 
 ## 3. REFERENCES
 [1]. https://ultahost.com/knowledge-base/install-android-studio-on-windows/
+
+[2]. https://www.genymotion.com/blog/tutorial/burp-suite-genymotion-device-image/
