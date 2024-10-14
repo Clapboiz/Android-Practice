@@ -1,4 +1,5 @@
-TÌM HIỂU ANDROID ARCHITECTURE
+# TÌM HIỂU ANDROID ENVIRONMENT
+
 | Android architecture
 
 | Thực hiện: Clapboiz
