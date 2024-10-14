@@ -1,6 +1,6 @@
 # TÌM HIỂU ANDROID ENVIRONMENT
 
-| Android architecture
+| Settings up a testing enviroment
 
 | Thực hiện: Clapboiz
 
